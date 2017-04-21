@@ -1,0 +1,94 @@
+<svg height="1454" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1454" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 10:46:05 +0000   830516 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 10:46:05 +0000    11315 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 10:46:05 +0000     7480 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 10:46:05 +0000      928 bytes  package.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 10:46:05 +0000    12447 bytes  plugin.xml</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 10:46:05 +0000   150911 bytes  roadmap.png</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 10:46:05 +0000    22946 bytes  src/android/plugin/google/maps/AsyncKmlParser.ja\</tspan>
+<tspan x="10" y="138">va</tspan>
+<tspan x="10" y="154">  7.  2017-04-21 10:46:05 +0000     1762 bytes  src/android/plugin/google/maps/AsyncLicenseInfo.\</tspan>
+<tspan x="10" y="170">java</tspan>
+<tspan x="10" y="186">  8.  2017-04-21 10:46:05 +0000     6376 bytes  src/android/plugin/google/maps/AsyncLoadImage.ja\</tspan>
+<tspan x="10" y="202">va</tspan>
+<tspan x="10" y="218">  9.  2017-04-21 10:46:05 +0000      151 bytes  src/android/plugin/google/maps/AsyncLoadImageInt\</tspan>
+<tspan x="10" y="234">erface.java</tspan>
+<tspan x="10" y="250"> 10.  2017-04-21 10:46:05 +0000     2546 bytes  src/android/plugin/google/maps/External.java</tspan>
+<tspan x="10" y="266"> 11.  2017-04-21 10:46:05 +0000    77793 bytes  src/android/plugin/google/maps/GoogleMaps.java</tspan>
+<tspan x="10" y="282"> 12.  2017-04-21 10:46:05 +0000     5435 bytes  src/android/plugin/google/maps/MyGeocoder.java</tspan>
+<tspan x="10" y="298"> 13.  2017-04-21 10:46:05 +0000     4317 bytes  src/android/plugin/google/maps/MyPlugin.java</tspan>
+<tspan x="10" y="314"> 14.  2017-04-21 10:46:05 +0000      752 bytes  src/android/plugin/google/maps/MyPluginInterface\</tspan>
+<tspan x="10" y="330">.java</tspan>
+<tspan x="10" y="346"> 15.  2017-04-21 10:46:05 +0000    11728 bytes  src/android/plugin/google/maps/MyPluginLayout.ja\</tspan>
+<tspan x="10" y="362">va</tspan>
+<tspan x="10" y="378"> 16.  2017-04-21 10:46:05 +0000      156 bytes  src/android/plugin/google/maps/PluginAsyncInterf\</tspan>
+<tspan x="10" y="394">ace.java</tspan>
+<tspan x="10" y="410"> 17.  2017-04-21 10:46:05 +0000     5260 bytes  src/android/plugin/google/maps/PluginCircle.java</tspan>
+<tspan x="10" y="426"> 18.  2017-04-21 10:46:05 +0000     9772 bytes  src/android/plugin/google/maps/PluginGroundOverl\</tspan>
+<tspan x="10" y="442">ay.java</tspan>
+<tspan x="10" y="458"> 19.  2017-04-21 10:46:05 +0000     1665 bytes  src/android/plugin/google/maps/PluginKmlOverlay.\</tspan>
+<tspan x="10" y="474">java</tspan>
+<tspan x="10" y="490"> 20.  2017-04-21 10:46:05 +0000    24152 bytes  src/android/plugin/google/maps/PluginMap.java</tspan>
+<tspan x="10" y="506"> 21.  2017-04-21 10:46:05 +0000    30077 bytes  src/android/plugin/google/maps/PluginMarker.java</tspan>
+<tspan x="10" y="522"> 22.  2017-04-21 10:46:05 +0000     7747 bytes  src/android/plugin/google/maps/PluginPolygon.jav\</tspan>
+<tspan x="10" y="538">a</tspan>
+<tspan x="10" y="554"> 23.  2017-04-21 10:46:05 +0000     9566 bytes  src/android/plugin/google/maps/PluginPolyline.ja\</tspan>
+<tspan x="10" y="570">va</tspan>
+<tspan x="10" y="586"> 24.  2017-04-21 10:46:05 +0000     4240 bytes  src/android/plugin/google/maps/PluginTileOverlay\</tspan>
+<tspan x="10" y="602">.java</tspan>
+<tspan x="10" y="618"> 25.  2017-04-21 10:46:05 +0000     4197 bytes  src/android/plugin/google/maps/PluginTileProvide\</tspan>
+<tspan x="10" y="634">r.java</tspan>
+<tspan x="10" y="650"> 26.  2017-04-21 10:46:05 +0000    10695 bytes  src/android/plugin/google/maps/PluginUtil.java</tspan>
+<tspan x="10" y="666"> 27.  2017-04-21 10:46:05 +0000      709 bytes  src/ios/GoogleMaps/Circle.h</tspan>
+<tspan x="10" y="682"> 28.  2017-04-21 10:46:05 +0000     6001 bytes  src/ios/GoogleMaps/Circle.m</tspan>
+<tspan x="10" y="698"> 29.  2017-04-21 10:46:05 +0000      236 bytes  src/ios/GoogleMaps/External.h</tspan>
+<tspan x="10" y="714"> 30.  2017-04-21 10:46:05 +0000     2235 bytes  src/ios/GoogleMaps/External.m</tspan>
+<tspan x="10" y="730"> 31.  2017-04-21 10:46:05 +0000      519 bytes  src/ios/GoogleMaps/Geocoder.h</tspan>
+<tspan x="10" y="746"> 32.  2017-04-21 10:46:05 +0000    11489 bytes  src/ios/GoogleMaps/Geocoder.m</tspan>
+<tspan x="10" y="762"> 33.  2017-04-21 10:46:05 +0000     1559 bytes  src/ios/GoogleMaps/GoogleMaps.h</tspan>
+<tspan x="10" y="778"> 34.  2017-04-21 10:46:05 +0000    33196 bytes  src/ios/GoogleMaps/GoogleMaps.m</tspan>
+<tspan x="10" y="794"> 35.  2017-04-21 10:46:05 +0000     1486 bytes  src/ios/GoogleMaps/GoogleMapsViewController.h</tspan>
+<tspan x="10" y="810"> 36.  2017-04-21 10:46:05 +0000    37887 bytes  src/ios/GoogleMaps/GoogleMapsViewController.m</tspan>
+<tspan x="10" y="826"> 37.  2017-04-21 10:46:05 +0000      832 bytes  src/ios/GoogleMaps/GroundOverlay.h</tspan>
+<tspan x="10" y="842"> 38.  2017-04-21 10:46:05 +0000    10235 bytes  src/ios/GoogleMaps/GroundOverlay.m</tspan>
+<tspan x="10" y="858"> 39.  2017-04-21 10:46:05 +0000      558 bytes  src/ios/GoogleMaps/KmlOverlay.h</tspan>
+<tspan x="10" y="874"> 40.  2017-04-21 10:46:05 +0000    28749 bytes  src/ios/GoogleMaps/KmlOverlay.m</tspan>
+<tspan x="10" y="890"> 41.  2017-04-21 10:46:05 +0000      745 bytes  src/ios/GoogleMaps/MFGoogleMapAdditions/GMSCoord\</tspan>
+<tspan x="10" y="906">inateBounds+Geometry.h</tspan>
+<tspan x="10" y="922"> 42.  2017-04-21 10:46:05 +0000     3480 bytes  src/ios/GoogleMaps/MFGoogleMapAdditions/GMSCoord\</tspan>
+<tspan x="10" y="938">inateBounds+Geometry.m</tspan>
+<tspan x="10" y="954"> 43.  2017-04-21 10:46:05 +0000     1087 bytes  src/ios/GoogleMaps/MFGoogleMapAdditions/LICENSE</tspan>
+<tspan x="10" y="970"> 44.  2017-04-21 10:46:05 +0000      172 bytes  src/ios/GoogleMaps/MFGoogleMapAdditions/README.m\</tspan>
+<tspan x="10" y="986">d</tspan>
+<tspan x="10" y="1002"> 45.  2017-04-21 10:46:05 +0000     1278 bytes  src/ios/GoogleMaps/Map.h</tspan>
+<tspan x="10" y="1018"> 46.  2017-04-21 10:46:05 +0000    28276 bytes  src/ios/GoogleMaps/Map.m</tspan>
+<tspan x="10" y="1034"> 47.  2017-04-21 10:46:05 +0000     1999 bytes  src/ios/GoogleMaps/Marker.h</tspan>
+<tspan x="10" y="1050"> 48.  2017-04-21 10:46:05 +0000    33793 bytes  src/ios/GoogleMaps/Marker.m</tspan>
+<tspan x="10" y="1066"> 49.  2017-04-21 10:46:05 +0000      235 bytes  src/ios/GoogleMaps/MyPlgunProtocol.h</tspan>
+<tspan x="10" y="1082"> 50.  2017-04-21 10:46:05 +0000      664 bytes  src/ios/GoogleMaps/MyPluginLayer.h</tspan>
+<tspan x="10" y="1098"> 51.  2017-04-21 10:46:05 +0000     4582 bytes  src/ios/GoogleMaps/MyPluginLayer.m</tspan>
+<tspan x="10" y="1114"> 52.  2017-04-21 10:46:05 +0000      601 bytes  src/ios/GoogleMaps/MyPluginLayerDebugView.h</tspan>
+<tspan x="10" y="1130"> 53.  2017-04-21 10:46:05 +0000     2264 bytes  src/ios/GoogleMaps/MyPluginLayerDebugView.m</tspan>
+<tspan x="10" y="1146"> 54.  2017-04-21 10:46:05 +0000      307 bytes  src/ios/GoogleMaps/MyPluginScrollView.h</tspan>
+<tspan x="10" y="1162"> 55.  2017-04-21 10:46:05 +0000      559 bytes  src/ios/GoogleMaps/MyPluginScrollView.m</tspan>
+<tspan x="10" y="1178"> 56.  2017-04-21 10:46:05 +0000     3741 bytes  src/ios/GoogleMaps/MyReachability.h</tspan>
+<tspan x="10" y="1194"> 57.  2017-04-21 10:46:05 +0000     9676 bytes  src/ios/GoogleMaps/MyReachability.m</tspan>
+<tspan x="10" y="1210"> 58.  2017-04-21 10:46:05 +0000     1482 bytes  src/ios/GoogleMaps/NSData-Base64/NSData+Base64.h</tspan>
+<tspan x="10" y="1226"> 59.  2017-04-21 10:46:05 +0000     9156 bytes  src/ios/GoogleMaps/NSData-Base64/NSData+Base64.m</tspan>
+<tspan x="10" y="1242"> 60.  2017-04-21 10:46:05 +0000     1494 bytes  src/ios/GoogleMaps/NSData-Base64/NSData+Base64.p\</tspan>
+<tspan x="10" y="1258">odspec</tspan>
+<tspan x="10" y="1274"> 61.  2017-04-21 10:46:05 +0000     2138 bytes  src/ios/GoogleMaps/PluginUtil.h</tspan>
+<tspan x="10" y="1290"> 62.  2017-04-21 10:46:05 +0000     6347 bytes  src/ios/GoogleMaps/PluginUtil.m</tspan>
+<tspan x="10" y="1306"> 63.  2017-04-21 10:46:05 +0000      713 bytes  src/ios/GoogleMaps/Polygon.h</tspan>
+<tspan x="10" y="1322"> 64.  2017-04-21 10:46:05 +0000     8080 bytes  src/ios/GoogleMaps/Polygon.m</tspan>
+<tspan x="10" y="1338"> 65.  2017-04-21 10:46:05 +0000      654 bytes  src/ios/GoogleMaps/Polyline.h</tspan>
+<tspan x="10" y="1354"> 66.  2017-04-21 10:46:05 +0000     5784 bytes  src/ios/GoogleMaps/Polyline.m</tspan>
+<tspan x="10" y="1370"> 67.  2017-04-21 10:46:05 +0000     9156 bytes  src/ios/GoogleMaps/TBXML.h</tspan>
+<tspan x="10" y="1386"> 68.  2017-04-21 10:46:05 +0000    31844 bytes  src/ios/GoogleMaps/TBXML.m</tspan>
+<tspan x="10" y="1402"> 69.  2017-04-21 10:46:05 +0000      629 bytes  src/ios/GoogleMaps/TileOverlay.h</tspan>
+<tspan x="10" y="1418"> 70.  2017-04-21 10:46:05 +0000     5188 bytes  src/ios/GoogleMaps/TileOverlay.m</tspan>
+<tspan x="10" y="1434"> 71.  2017-04-21 10:46:05 +0000    94287 bytes  www/googlemaps-cdv-plugin.js</tspan>
+</text>
+</svg>
